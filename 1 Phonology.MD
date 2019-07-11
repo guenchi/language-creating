@@ -2,6 +2,8 @@
 
 ### Vowels:
 
+![img](https://github.com/guenchi/language-creating/blob/master/img/cl0.png)
+
 This language has only five vowels: / ɑ /, / ɛ/, / ɪ /, / o /, / u /.
 
 
