@@ -2,7 +2,7 @@ this Table displays the ethnolinguistics-oriented morphology.
 
 the sign * represents the old-fashioned manner of pronunciation.
 
-
+![img](https://github.com/guenchi/language-creating/blob/master/img/cl2.png)
  
 
 I spent about 5 evenings (ca. 15 hours) creating these special examples to demonstrate my capability of creating a language although it might be a little sketchy.

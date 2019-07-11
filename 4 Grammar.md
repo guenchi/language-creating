@@ -283,7 +283,7 @@ la taya kowe.
 « I was going to eat. »
 
  
-
+![img](https://github.com/guenchi/language-creating/blob/master/img/cl3.png)
  
 
  
