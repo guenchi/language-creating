@@ -16,6 +16,7 @@ This language has only five vowels: / ɑ /, / ɛ/, / ɪ /, / o /, / u /.
 ### Consonants:
 
 
+![img](https://github.com/guenchi/language-creating/blob/master/img/cl1.png)
 1. Fortis-lenis pairs:
 
 These pairs of consonants distinguish themselves by whether they are aspired or not instead of whether they are voiced or not.
