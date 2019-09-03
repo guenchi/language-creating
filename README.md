@@ -8,3 +8,5 @@ I have in-depth research in vocabulary, pronunciation and grammar of Chinese, Cl
 I have created more than a dozen fantasy languages and words.
 
 This project is an archive of some of my work in 2011.
+
+Undertake the constructed language design needed in novels, movies, TV series and other works.
