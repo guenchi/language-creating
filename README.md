@@ -1,10 +1,10 @@
 # language-creating
-幻想语言创造
+Constructed language creation
 
-在代码世界之外，我主要的兴趣爱好和专业是语言学和语音学。我在勒内•笛卡尔巴黎第五大学受训成为一名语言学家和语音学家，主要的特长是幻想语言创造。
+Outside of the code world, my main hobbies and majors are linguistics and phonetics. I was trained as a linguist and phonetician at René Descartes' fifth university in Paris. The main specialty is constructed language creation.
 
-我对中文，古典中文，法文，十一世纪古法语，英语，古英语，中古英语，德语，高古德语，高卢语，西班牙语，葡萄牙语，意大利语，古典拉丁语，芬兰语，捷克语，罗马尼亚语，马扎尔语，俄语，希腊语，古典希腊语，爱尔兰语，巴斯克语，日语，韩语，阿拉伯语，柏柏尔语，希伯来语，Tseltal，Nahuatl和Proto-Indo-European的词汇，语音和语法有深入研究，这包含7种罗曼语族语言，5种日耳曼语族语言，3种闪含语族语言，2种希腊希腊语族语言，2种凯尔特语族语言，2种芬兰-乌戈尔语言，2种斯拉夫语言，2种汉藏语系语言，2种阿尔泰语系语言 ，1种古西伯利亚语言，1种玛雅语言，1种阿兹特克语言和许多原始语言组合。
+I have in-depth research in vocabulary, pronunciation and grammar of Chinese, Classical Chinese, French, 11th Century Old French, English, Old English, Middle English, German, Kogurt, Gaul, Spanish, Portuguese, Italian, Classical Latin, Finnish, Czech , Romanian, Mazal, Russian, Greek, Classical Greek, Irish, Basque, Japanese, Korean, Arabic, Berber, Hebrew, Tseltal, Nahuatl and Proto-Indo- European, which includes 7 kinds of Romance language, 5 Germanic languages, 3 German language languages, 2 Greek Greek languages, 2 Celtic languages, 2 Finland-Ugol language, 2 Slavic languages, 2 Sino-Tibetan languages, 2 Altaic languages, 1 ancient Siberian language, 1 Mayan language, 1 Aztec language and many original language combinations.
 
-我曾创造过十几种幻想语言和文字。
+I have created more than a dozen fantasy languages and words.
 
-这个项目是我2011年的一些工作存档。
+This project is an archive of some of my work in 2011.
