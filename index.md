@@ -9,3 +9,16 @@ I have created more than a dozen fantasy languages and words.
 This project is an archive of some of my work in 2011.
 
 Undertake the constructed language design needed in novels, movies, TV series and other works.
+
+
+### Demo
+
+[1 Phonology](1%20Phonology.md)
+
+[2 Concept of Ethnolinguistics](2%20Concept%20of%20Ethnolinguistics.md)
+
+[3 Dictionnary](3%20Dictionnary.md)
+
+[4 Grammar](4%20Grammar.md)
+
+[5 The translation of Babel text](5%20The%20translation%20of%20Babel%20text.md)
