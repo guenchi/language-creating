@@ -20,9 +20,11 @@ Sug, vaya nangkhota edu natukcog tonaputtuk, tya edu manthota vasyok dusdumakna.
 
 Nat tulu ccak ek soabut Babel, af natukcog vaya nabuthota hugn tonaputg, tya natukcog vaya nangkhota edu tonaputtuk.
 
-Tya          to’naput                           ga’ssu       hugn
 
-« and »      « the whole earth+on »       « have »      « language »
+```
+Tya          to’naput                           ga’ssu        hugn
+
+« and »      « the whole earth+on »             « have »      « language »
 
 « the whole world »
 
@@ -247,5 +249,7 @@ e’du         to’naputtuk.
 « them »    « the whole world+in »
 
 « over the whole world »
+
+```
 
 All rights reserved 
