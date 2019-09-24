@@ -10,6 +10,7 @@ This project is an archive of some of my work in 2011.
 
 Undertake the constructed language design needed in novels, movies, TV series and other works.
 
+[Description of my theory of language creation](Description%20of%20my%20theory%20of%20language%20creation.md)
 
 ### Demo
 
