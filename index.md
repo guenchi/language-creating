@@ -10,16 +10,16 @@ This project is an archive of some of my work in 2011.
 
 Undertake the constructed language design needed in novels, movies, TV series and other works.
 
-[Description of my theory of language creation](Description%20of%20my%20theory%20of%20language%20creation.md)
+[Description of my theory of language creation](MyTheory.md)
 
 ### Demo
 
-[1 Phonology](1%20Phonology.md)
+[1 Phonology](1.Phonology.md)
 
-[2 Concept of Ethnolinguistics](2%20Concept%20of%20Ethnolinguistics.md)
+[2 Concept of Ethnolinguistics](2.Ethnolinguistics.md)
 
-[3 Dictionnary](3%20Dictionnary.md)
+[3 Dictionnary](3.Dictionnary.md)
 
-[4 Grammar](4%20Grammar.md)
+[4 Grammar](4.Grammar.md)
 
-[5 The translation of Babel text](5%20The%20translation%20of%20Babel%20text.md)
+[5 The translation of Babel text](5.BabelText.md)
