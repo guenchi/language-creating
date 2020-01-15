@@ -23,3 +23,9 @@ Undertake the constructed language design needed in novels, movies, TV series an
 [4 Grammar](4.Grammar.md)
 
 [5 The translation of Babel text](5.BabelText.md)
+
+![img](img/IMG_0569.JPG)
+
+![img](img/IMG_0570.JPG)
+
+![img](img/IMG_0571.JPG)
