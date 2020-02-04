@@ -61,3 +61,8 @@ Thank you
   LOVIS
 
 12 Jan. 2012 in Paris
+
+
+```
+all rights reserved © Copyright
+```
