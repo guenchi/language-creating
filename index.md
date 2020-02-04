@@ -31,3 +31,7 @@ Undertake the constructed language design needed in novels, movies, TV series an
 ![img](img/IMG_0570.JPG)
 
 ![img](img/IMG_0571.JPG)
+
+```
+all rights reserved © copyright
+```
