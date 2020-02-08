@@ -64,5 +64,5 @@ Thank you
 
 
 ```
-all rights reserved © Copyright
+© 2011-2020 guenchi.  All rights reserved.
 ```

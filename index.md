@@ -33,6 +33,6 @@ Undertake the constructed language design needed in novels, movies, TV series an
 ![img](img/IMG_0571.JPG)
 
 ```
-all rights reserved © Copyright
+© 2011-2020 guenchi.  All rights reserved.
 ```
 
