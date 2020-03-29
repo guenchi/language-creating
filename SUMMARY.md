@@ -1,6 +1,8 @@
 # Summary
 
-* [Index](README.md)
+* [Language Creation](README.md)
+
+* [My Theory of Language Creation](MyTheory.md)
 
 * [1 Phonology](1.Phonology.md)
 
