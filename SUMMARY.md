@@ -1,6 +1,6 @@
 # Summary
 
-* [index](README.md)
+* [Index](README.md)
 
 * [1 Phonology](1.Phonology.md)
 
